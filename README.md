@@ -7,3 +7,5 @@ Back-end Language - Java
 Framework - Hibernate, Bootstarp, jQuery
 
 IDE - NetBeans
+
+Server - Apache Tomcat (Localhost)
